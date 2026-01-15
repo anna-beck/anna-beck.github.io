@@ -6,7 +6,7 @@ http://www.example.com
 
 http://www.linkedin.com/in/anyab
 
-![A map pin](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.koolbadges.co.uk%2Fi-love-maps-badge-p-10050.html%3Fsrsltid%3DAfmBOopHfK0GqCYmnDRu4L3gpyznuD4keKzaaluiuSDH6HAZ35N8w--X&ved=0CBYQjRxqFwoTCLCE7_SjjJIDFQAAAAAdAAAAABAI&opi=89978449)
+![A map pin](https://www.koolbadges.co.uk/images/thumbnails/i-love-maps-badge-400x400.jpg)
 
 
 
