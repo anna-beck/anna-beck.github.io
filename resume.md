@@ -6,6 +6,10 @@ http://www.example.com
 
 http://www.linkedin.com/in/anyab
 
+UW: http://www.uw.edu
+Place: http://www.Place.org
+
+
 # Summary
 
 Geography Data Science student
@@ -21,10 +25,5 @@ Aug 2023 - Feb 2025
 Sept 2024 - June 2026
 
 - Dean's List
-
-
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+- Club 1
+- Club 2
